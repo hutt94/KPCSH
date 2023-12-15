@@ -15,7 +15,8 @@ If you find KPCSH useful in your research, please consider citing:
 @article{hu2023joint,
   title={Key Points Centered Sparse Hashing for Cross-Modal Retrieval},
   author={Hu, Zhikai and Cheung, Yiu-ming and Li, Mengke and Lan, Weichao and Zhang, Donglin},
-  year={2023},
+  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing}
+  year={2024},
   publisher={IEEE}
 }
 ```
