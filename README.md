@@ -1,6 +1,6 @@
 # KPCSH
 
-Source code for ICASSP'24 paper ["Key Points Centered Sparse Hashing for Cross-Modal Retrieval"](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10446586)
+Source code for ICASSP'24 paper ["Key Points Centered Sparse Hashing for Cross-Modal Retrieval"](https://ieeexplore.ieee.org/document/10446586)
 
 ## Datasets
 Please refer to the provided [link](https://github.com/yxinwang/HSCH-TCSVT) to download the dataset, and kindly place it in the designated "datasets" folder.
