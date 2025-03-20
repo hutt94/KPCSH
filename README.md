@@ -2,6 +2,11 @@
 
 Source code for ICASSP'24 paper ["Key Points Centered Sparse Hashing for Cross-Modal Retrieval"](https://ieeexplore.ieee.org/document/10446586)
 
+Related Works on CMH:
+- [[TPAMI'24] Cross-Modal Hashing Method with Properties of Hamming Space: A New Perspective](https://github.com/hutt94/SCH)
+- [[TCSVT'23] Joint Semantic Preserving Sparse Hashing for Cross-Modal Retrieval](https://github.com/hutt94/JSPSH)
+- [[ICMR'19] Triplet Fusion Network Hashing for Unpaired Cross-Modal Retrieval](https://github.com/hutt94/TFNH)
+  
 ## Datasets
 Please refer to the provided [link](https://github.com/yxinwang/HSCH-TCSVT) to download the dataset, and kindly place it in the designated "datasets" folder.
 
